@@ -7,7 +7,13 @@
   
    欢迎访问StableDiffusion一站式全网资料收集整理站，紧跟AI绘画的发展，及时更新提供关于StableDiffusion的相对全面的各方面资料。方便对StableDiffusion有一个全面的认识和了解。  
 </p>
-  
+
+<p>
+资料架构图
+</p>
+
+![资料架构图](https://github.com/xiaoqdu/allinstablediffusion/blob/main/framework.png?raw=true)
+
 # 交流共享
 
 【免费交流群】欢迎👏🏻👏🏻👏🏻加入AI工具大百科交流群，与AI领域专家和各行各业的AI绘画爱好者一起交流碰撞💥💥💥！不管你是专业人士还是爱好者，都欢迎加入群体！
